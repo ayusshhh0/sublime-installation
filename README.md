@@ -1,6 +1,6 @@
 # sublime-installation
-Installation of Sublime Text Editor :- 
-git clone https://github.com/ayusshhh0/sublime-installation
-cd sublime-installation
-chmod 777 sublime.sh
-./sublime.sh
+Installation of Sublime Text Editor :- <br> 
+git clone https://github.com/ayusshhh0/sublime-installation <br>
+cd sublime-installation <br>
+chmod 777 sublime.sh <br>
+./sublime.sh <br>
